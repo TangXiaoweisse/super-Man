@@ -1,2 +1,0 @@
-# super-Man
-first repository
